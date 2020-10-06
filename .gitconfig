@@ -1,0 +1,8 @@
+[user]
+	signingkey = 01FA49EB091518F9
+	email = jamesrcounts@outlook.com
+	name = Jim Counts
+[commit]
+	gpgsign = true
+[gpg]
+	program = /usr/bin/gpg
