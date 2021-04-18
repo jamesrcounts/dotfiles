@@ -1,6 +1,3 @@
-# Path to your oh-my-bash installation.
-export OSH=$HOME/.oh-my-bash
-
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-bash is loaded.
 OSH_THEME="codespaces"
@@ -69,8 +66,6 @@ plugins=(
   git
   bashmarks
 )
-
-source $OSH/oh-my-bash.sh
 
 # User configuration
 # export MANPATH="/usr/local/man:$MANPATH"
